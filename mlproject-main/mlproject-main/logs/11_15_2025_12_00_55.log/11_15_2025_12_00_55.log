@@ -1,0 +1,14 @@
+[ 2025-11-15 12:00:55,405 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-11-15 12:00:55,462 ] 97 werkzeug - INFO -  * Debugger PIN: 677-820-082
+[ 2025-11-15 12:00:55,589 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:00:55] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-11-15 12:01:11,653 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:01:11] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-11-15 12:01:11,883 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:01:11] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-11-15 12:01:11,883 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:01:11] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-11-15 12:01:11,950 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:01:11] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-11-15 12:01:11,992 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Nov/2025 12:01:11] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-11-15 12:01:36,450 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-11-15 12:01:36,469 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-11-15 12:01:36,469 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-11-15 12:01:36,544 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-11-15 12:01:36,555 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
+[ 2025-11-15 12:01:36,555 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\s keerthi\\Downloads\\mlproject-main\\mlproject-main\\src\\pipeline\\predict_pipeline.py', reloading
